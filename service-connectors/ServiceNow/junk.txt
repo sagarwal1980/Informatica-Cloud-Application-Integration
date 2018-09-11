@@ -1,0 +1,2 @@
+This is a file used to create the ServiceNow directory.
+Can be thrown away.
